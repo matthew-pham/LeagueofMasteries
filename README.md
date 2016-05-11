@@ -13,4 +13,3 @@ https://youtu.be/77GV1ApfaII
 
 
 Project was uploaded on 5/9/16
-Any commits after the due date were to remove API keys and login credentials. 
