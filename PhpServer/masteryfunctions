@@ -1,2 +1,0 @@
-    championIdtoName(getTopMastery($SID, $region)['championId'])
-    getTopMastery($SID, $region)['championPoints']
